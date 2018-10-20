@@ -1,0 +1,20 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: rgb(209, 211, 209);
+    margin: 0 auto;
+    max-width: 667px;
+}
+
+a {
+    text-decoration: none;
+}
+.list div{
+    background: #fff;
+}
